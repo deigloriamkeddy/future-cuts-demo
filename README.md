@@ -1,5 +1,7 @@
 # Future Cuts — website demo
 
+[![Future Cuts — desktop light and mobile dark preview](docs/preview.jpg)](https://local-business-demo-collection.netlify.app/future-cuts/)
+
 An independent website concept for Future Cuts in Federal Way, Washington.
 
 [View the current demo](https://local-business-demo-collection.netlify.app/future-cuts/) · [Public source](https://github.com/deigloriamkeddy/future-cuts-demo)
