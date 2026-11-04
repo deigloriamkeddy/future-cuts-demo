@@ -1,0 +1,58 @@
+{
+  "slug": "future-cuts",
+  "short": "FUTURE CUTS",
+  "tag": "FEDERAL WAY / BARBER SHOP",
+  "layout": "poster",
+  "accent": "#43642e",
+  "paper": "#edeee3",
+  "dark": "#181e18",
+  "title": "FRESH CUT.",
+  "italic": "FRESH START.",
+  "intro": "Fades, tapers, and a look that feels like you. Find your next cut on Pacific Highway South in Federal Way.",
+  "hero": "barber",
+  "photos": [
+    "barber-tools",
+    "barber"
+  ],
+  "services": [
+    [
+      "Fades & tapers",
+      "Explore a clean transition and a shape that suits your style."
+    ],
+    [
+      "Classic cuts",
+      "A straightforward refresh for your everyday look."
+    ],
+    [
+      "Family haircuts",
+      "Ask about cuts for different ages and styles."
+    ],
+    [
+      "Grooming inquiry",
+      "Call to confirm the grooming services currently available."
+    ]
+  ],
+  "story": "Your neighborhood. Your next cut.",
+  "storyText": "A clear service menu, a simple call, and directions to the shop. Everything you need to take the next step without searching through social posts.",
+  "cta": "Plan your next cut",
+  "galleryTitle": "The details make the cut.",
+  "filters": [
+    "All",
+    "Barbering"
+  ],
+  "source": "https://www.bestprosintown.com/wa/federal-way/future-cuts-2/",
+  "findings": "BestProsInTown corroborates address, phone and reports fades, tapers, family cuts. Fresha is unaffiliated and has hours that conflict with BestProsInTown. No Fresha booking is implied.",
+  "questions": "Confirm hours, walk-in policy, pricing, payments and current grooming menu.",
+  "name": "Future Cuts",
+  "city": "Federal Way",
+  "address": "31008 Pacific Hwy S, Federal Way, WA 98003",
+  "phone": "253-839-4540",
+  "id": 5,
+  "category": "Barber shop",
+  "pdd": "05_future_cuts_PDD.pdf",
+  "gallery": [
+    "barber",
+    "barber-tools"
+  ],
+  "date": "2026-11-03"
+}
